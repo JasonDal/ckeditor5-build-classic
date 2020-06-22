@@ -49,6 +49,8 @@ ClassicEditor.defaultConfig = {
 			'bold',
 			'italic',
 			'link',
+			'removeFormat',
+			'|',
 			'bulletedList',
 			'numberedList',
 			'|',
